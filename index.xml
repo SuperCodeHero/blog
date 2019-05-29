@@ -1,11 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KeepIt on KeepIt</title>
+    <title>无尽光芒</title>
     <link>http://supercodehero.github.io/hugoweb/</link>
-    <description>Recent content in KeepIt on KeepIt</description>
+    <description>Recent content on 无尽光芒</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="/hugoweb/" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    
+	<atom:link href="http://supercodehero.github.io/hugoweb/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
