@@ -3,17 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://supercodehero.github.io/hugoweb/categories/</loc>
+    <loc>https://supercodehero.github.io/hugoweb/posts/</loc>
+    <lastmod>2019-04-11T14:26:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://supercodehero.github.io/hugoweb/tags/</loc>
+    <lastmod>2019-04-11T14:26:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://supercodehero.github.io/hugoweb/tags/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2019-04-11T14:26:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://supercodehero.github.io/hugoweb/</loc>
+    <lastmod>2019-04-11T14:26:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://supercodehero.github.io/hugoweb/tags/%E7%9C%9F%E8%A8%80/</loc>
+    <lastmod>2019-04-11T14:26:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://supercodehero.github.io/hugoweb/posts/chinese-preview/</loc>
+    <lastmod>2019-04-11T14:26:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supercodehero.github.io/hugoweb/tags/%E4%BD%93%E7%B3%BB/</loc>
+    <lastmod>2019-04-10T14:26:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://supercodehero.github.io/hugoweb/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <lastmod>2019-04-10T14:26:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://supercodehero.github.io/hugoweb/posts/japanese-preview/</loc>
+    <lastmod>2019-04-10T14:26:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supercodehero.github.io/hugoweb/posts/english-preview/</loc>
+    <lastmod>2019-04-01T14:26:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supercodehero.github.io/hugoweb/tags/english/</loc>
+    <lastmod>2019-04-01T14:26:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://supercodehero.github.io/hugoweb/tags/theme/</loc>
+    <lastmod>2019-04-01T14:26:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://supercodehero.github.io/hugoweb/posts/theme-preview/</loc>
+    <lastmod>2019-03-31T17:49:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supercodehero.github.io/hugoweb/about/</loc>
+    <lastmod>2018-12-29T20:24:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supercodehero.github.io/hugoweb/categories/</loc>
     <priority>0</priority>
   </url>
   
